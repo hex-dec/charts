@@ -2,5 +2,5 @@ helmRepo:
   cname: charts.rancher.io
 
 validate:
-  url: https://github.com/rancher/charts.git
+  url: https://github.com/hex-dec/charts.git
   branch: release-v2.11
